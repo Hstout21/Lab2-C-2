@@ -1,0 +1,51 @@
+Script started on 2022-01-28 02:17:08-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="261" LINES="25"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab2[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab2[00m$ ./a.out
+Which file would you like to organize? (1, 2, 3)
+1. larger.dat
+2. smaller.dat
+3. Other file
+2
+
+Now organizing smaller.dat
+
+Would you like to add a number to the data? (y/n): y
+
+Please type the number you would like to add: 1- 06
+
+Successfully added 106.
+
+Would you like to add another number? (y/n): Y
+
+Please type the number you would like to add: 237
+
+Successfully added 237.
+
+Would you like to add another number? (y/n): y
+
+Please type the number you would like to add: 45701
+
+Successfully added 45701.
+
+Would you like to add another number? (y/n): n
+
+45701
+28318
+26522
+24583
+22089
+14140
+9172
+6816
+5203
+4587
+4435
+237
+106
+
+Would you like to output results to smallersorted.dat (y/n): y
+
+Data saved to smallersorted.dat.
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab2[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab2[00m$ exit
+exit
+
+Script done on 2022-01-28 02:18:23-05:00 [COMMAND_EXIT_CODE="0"]
